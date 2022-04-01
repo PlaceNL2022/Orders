@@ -22,4 +22,4 @@ Voorbeeld:
 
 Kleuren-mapping:
 
-![colors.png](kleuren-mapping)
+![kleuren-mapping](colors.png)

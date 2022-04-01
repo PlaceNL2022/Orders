@@ -4,6 +4,10 @@ Deze repo bevat de pixels die door de bot geplaatst moeten worden. Pixels die he
 
 ## Format
 
+Orders worden gegerenereerd met het `reference.py` script, met `reference.png` als referentie.
+
+![reference](reference.png)
+
 `orders.json` gebruikt een vrij simpel format. Het is een array, die bestaat uit arrays met drie items.
 
 - 0: de x-coordinaat van de pixel

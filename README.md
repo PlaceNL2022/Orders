@@ -1,3 +1,5 @@
+# Deze repo is vervangen door [Commando](https://github.com/PlaceNL/Commando)!
+
 # Orders
 
 Deze repo bevat de pixels die door de bot geplaatst moeten worden. Pixels die het eerst in de lijst staan worden als eerste geprobeerd. Bij aanvallen dus **vooraan** de lijst zetten.
